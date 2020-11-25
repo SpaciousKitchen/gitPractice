@@ -1,2 +1,1 @@
-console.log("doly");
-console.log("ninja");
+console.log("");
